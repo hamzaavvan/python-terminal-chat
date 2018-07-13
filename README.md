@@ -1,7 +1,7 @@
 # python-terminal-chat
 Terminal live chat built using python and pusher api
 
-## Run command inside terminal
+## Run commands inside terminal
 ```bash
 $ pip install vitualenv
 $ vitualenv terminal-chat
