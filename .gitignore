@@ -1,6 +1,6 @@
+.env
+
 Include/
 Lib/
 Scripts/
 tcl/
-
-.env
