@@ -18,3 +18,13 @@ For Windows User
 $ cd terminal-chat
 $ Scripts\activate
 ```
+
+Run the following command to install libraries
+```bash
+$ pip install termcolor pusher git+https://github.com/nlsdfnbch/Pysher.git python-dotenv
+```
+
+Or if you've `pipenv` installed, do this
+```bash
+$ pipenv install
+```
